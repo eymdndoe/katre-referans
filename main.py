@@ -1,3 +1,7 @@
+from keep_alive import keep_alive
+
+keep_alive()
+
 import json
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ChatMember
 from telegram.ext import (
