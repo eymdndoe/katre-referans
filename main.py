@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # --- AYARLAR ---
-BOT_TOKEN = "8197121234:AAEWzGy56oLW9i3OKxI-gyZM6ywN1zpWyw0"
+BOT_TOKEN = "8481698848:AAFw55fXXVwmDQt56UyAxQJ1ukfCocnoUf8"
 ADMIN_ID = 6484811971
 BOT_USERNAME = "KatreSmsOnayBot"
 REQUIRED_CHANNEL = "@KatreSms"
