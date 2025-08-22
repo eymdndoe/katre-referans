@@ -12,7 +12,7 @@ from telegram.ext import (
 # --- AYARLAR ---
 BOT_TOKEN = "8481698848:AAFw55fXXVwmDQt56UyAxQJ1ukfCocnoUf8"
 ADMIN_ID = 6484811971
-BOT_USERNAME = "KatreSmsOnayBot"
+BOT_USERNAME = "KatreSmsBot"
 REQUIRED_CHANNEL = "@KatreSms"
 REQUIRED_GROUP = "https://t.me/KatreSmsChat"  # Yeni grup
 REQUIRED_GROUP_ID = "-1002900454087"  # Bu ID'yi gerçek grup ID'si ile değiştirin
